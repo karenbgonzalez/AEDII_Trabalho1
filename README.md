@@ -1,7 +1,7 @@
 # Algoritmos e Estruturas de Dados II (AED II) - Trabalho 1
 ## Participantes do Grupo
-⭐ Karen Juliana Báez González  
-⭐ Luna Veiga Horta Braga
+- Karen Juliana Báez González  
+- Luna Veiga Horta Braga
 
 ## Descrição
 
@@ -35,13 +35,7 @@ na **linguagem C** seguindo os princípios de Tipos Abstratos de Dados (TAD).
 - Quick Sort
 - Merge Sort
 
-
-## Medição de Tempo
-
-A medição de tempo foi realizada com a função `clock()` da biblioteca
-`<time.h>`, registrando o tempo de CPU para cada execução dos algoritmos.  
-
 ## Resultados
 
 Os tempos de execução, médias e desvios padrão estão
-documentados no PDF anexado.
+documentados no PDF anexado, junto com as tabelas e gráficos das questões 4 e 5.
